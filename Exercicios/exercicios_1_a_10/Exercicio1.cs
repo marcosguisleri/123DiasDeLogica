@@ -7,7 +7,7 @@ namespace _123_dias_logica.Exercicios.Exercicios_1_a_10
         public static void Executar()
         {
             // Exercício 01.
-            Console.WriteLine("Exercício 1: Descrição do problema");
+            Console.WriteLine("Exercício 1: Calcule a média de duas notas e mostre a média aritmética obtida. ");
 
             // Lógica do exercício 1
 

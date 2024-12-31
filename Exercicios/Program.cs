@@ -5,7 +5,7 @@ class Program
 {
     static void Main()
     {
-        // Chama o método Executar() do Exercicio1
-        Exercicio1.Executar();
+        // Chama o método Executar mude o número para chamar o exercício desejado.
+        Exercicio2.Executar();
     }
 }
