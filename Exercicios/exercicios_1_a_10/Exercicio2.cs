@@ -6,10 +6,10 @@ namespace _123_dias_logica.Exercicios.Exercicios_1_a_10
     {
         public static void Executar()
         {
-            // Exercício 01.
+            // Exercício 02.
             Console.WriteLine("Exercício 2: Leia o nome de uma pessoa, a sua idade e o seu salário, e mostre essas informações. ");
 
-            // Lógica do exercício 1
+            // Lógica do exercício 2
 
             Console.WriteLine("Informe seu nome: ");
             string nome = Console.ReadLine();
