@@ -7,7 +7,7 @@ namespace _123_dias_logica.Exercicios.Exercicios_31_a_40
         public static void Executar()
         {
             // Exercício 36.
-            Console.WriteLine("Exercício 36: \n");
+            Console.WriteLine("Exercício 36: Um vendedor necessita de um algoritmo que calcula o preço total devido por um cliente. O algoritmo deve receber o código de um produto e a quantidade comprada e calcular o preço total, usando a tabela abaixo: \n");
 
             // Lógica do exercício 36
             Console.WriteLine("Informe o código do produto: ");
