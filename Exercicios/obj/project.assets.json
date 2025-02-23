@@ -8,25 +8,24 @@
     "net9.0": []
   },
   "packageFolders": {
-    "/home/marcosguisleri/.nuget/packages/": {}
+    "C:\\Users\\gusta\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/home/marcosguisleri/123DiasDeLogica/Exercicios/Exercicios.csproj",
+      "projectUniqueName": "C:\\Users\\gusta\\OneDrive\\Documents\\123DiasDeLogica\\Exercicios\\Exercicios.csproj",
       "projectName": "Exercicios",
-      "projectPath": "/home/marcosguisleri/123DiasDeLogica/Exercicios/Exercicios.csproj",
-      "packagesPath": "/home/marcosguisleri/.nuget/packages/",
-      "outputPath": "/home/marcosguisleri/123DiasDeLogica/Exercicios/obj/",
+      "projectPath": "C:\\Users\\gusta\\OneDrive\\Documents\\123DiasDeLogica\\Exercicios\\Exercicios.csproj",
+      "packagesPath": "C:\\Users\\gusta\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\gusta\\OneDrive\\Documents\\123DiasDeLogica\\Exercicios\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "/home/marcosguisleri/.nuget/NuGet/NuGet.Config"
+        "C:\\Users\\gusta\\AppData\\Roaming\\NuGet\\NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "net9.0"
       ],
       "sources": {
-        "/usr/lib64/dotnet/library-packs": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
@@ -45,7 +44,7 @@
         "auditLevel": "low",
         "auditMode": "direct"
       },
-      "SdkAnalysisLevel": "9.0.100"
+      "SdkAnalysisLevel": "9.0.200"
     },
     "frameworks": {
       "net9.0": {
@@ -66,7 +65,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "/usr/lib64/dotnet/sdk/9.0.102/PortableRuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.200/PortableRuntimeIdentifierGraph.json"
       }
     }
   }

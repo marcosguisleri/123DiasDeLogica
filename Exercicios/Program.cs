@@ -9,6 +9,6 @@ class Program
     static void Main()
     {
         // Chama o método Executar mude o número para chamar o exercício desejado.
-        Exercicio38.Executar();
+        Exercicio40.Executar();
     }
 }
